@@ -5,7 +5,7 @@
  - [Demo](https://themewagon.github.io/inapp/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/cryptoflow/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/inapp/)
 
 ## Getting Started
 
